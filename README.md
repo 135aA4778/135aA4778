@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, You can call me magician👋
 
 - 🔭 I’m currently working on Matrix game
 - 
