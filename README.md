@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Matrix game
 - 
-- 💬 Ask me about flutter framework
+- 💬 Ask me about flutter framework or c#
 - 
 - 📫 How to reach me: dalmnbas@gmail.com
 <!--
